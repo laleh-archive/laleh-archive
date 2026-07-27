@@ -1,18 +1,96 @@
-![Bannière](https://images8.alphacoders.com/138/thumb-1920-1383986.png)
+<div align="center">
 
-<h1 align="center">𝑯𝒊 ! 𝑰'𝒎 Laleh</h1>
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠁⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⢶⡛⠉⣁⠴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⡧⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠂⠙⠀⠉⠓⠲⣤⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣸⣠⣤⣼⡁⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⢖⢋⣠⠀⠀⢶⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⠉⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠈⢣⡀⡈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠆⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⠓⠪⡕⢧⣀⡀⠀⠀⠀⠀⢠⠞⣼⠙⢤⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⣴⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⣴⣣⢤⣸⡀⠀⠀⠀⢠⠏⠀⢻⠀⠀⠈⠉⠉⣡⠇⠀⠀⠀⢀⢾⠯⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⢶⣋⠁⠀⠀⠀⢀⡎⠸⠀⠀⢈⣩⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡀⠀⠀⣞⠓⠤⠤⠜⠃⠀⠀⠀⢸⠁⠀⠀⠺⣍⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠦⠤⠼⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⢶⠒⠒⠋⠀⠀⠀⣠⣤⡀⣰⠞⢦
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⠼⠀⠀⠀⠀⢀⣀⡗⠁⠹⠳⣀⡏
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢧⠀⢠⢀⡴⠋⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣸⣴⠿⠛⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀
+```
 
-<h3 align="center">𝗔 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗶𝗻 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗙𝗿𝗮𝗻𝗰𝗲</h3>
+# 𝑳𝒂𝒍𝒆𝒉
 
-- 🔭 I’m currently working on **some games**
+### .୨ৎ ݁ ˖🍁๋࣭ ⭑🍂༘⋆
 
-- 🌱 I’m currently learning **Python**
+*per aspera ad astra*
 
-- 🤝 I’m looking for help with **programming in general**
+</div>
 
-- 💬 Ask me about **litterature**
+<br>
 
-- ⚡ Fun fact ; **I know everything about sea animals !**
+## ༄˖°.🍂 à propos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+```
+🍂  lectrice, écrivaine en herbe, créative curieuse
+☕  carnets, cafés et longues réflexions
+🕯️  j'apprends à transformer des idées en projets
+📖  passionnée par les histoires, les idées et les petits détails
+```
+
+<br>
+
+## ⋆｡˚☕️ ce que j'aime
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🍂 | l'automne, évidemment |
+| 🕯️ | les bougies et les moments tranquilles |
+| ☕ | les boissons chaudes et longues sessions créatives |
+| 🦌 | les livres, les carnets et les histoires |
+| ⭒  | l'art et les détails qui rendent les choses uniques |
+
+</div>
+
+<br>
+
+## ⋆.ೃ࿔*:･ stack & outils
+
+<div align="center">
+
+𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲 (ᴛᴇʀʀᴀꜰᴏʀᴍ, ᴀɴꜱɪʙʟᴇ)
+𝗖𝗼𝗻𝘁𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 (ᴅᴏᴄᴋᴇʀ, ᴋᴜʙᴇʀɴᴇᴛᴇꜱ) 
+𝗦é𝗰𝘂𝗿𝗶𝘁é 𝗿é𝘀𝗲𝗮𝘂 & 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗱𝗲 𝘁𝗿𝗮𝗳𝗶𝗰 (ᴡɪʀᴇꜱʜᴀʀᴋ) 
+𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗖𝗹𝗼𝘂𝗱 𝘀é𝗰𝘂𝗿𝗶𝘀é𝗲 (ᴄʟᴏᴜᴅ, ɴᴇxᴜꜱ ᴠɪʀᴛᴜᴀʟɪꜱ) 
+
+</div>
+
+<br>
+
+## ˖°🍁 stats
+
+<div align="center">
+
+<!-- 🍂 remplace TON-PSEUDO par ton vrai pseudo github -->
+<img src="https://github-readme-stats.vercel.app/api?username=laleh-archive&show_icons=true&theme=transparent&title_color=8C6A4C&icon_color=B8895A&text_color=6E5240&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laleh-archive&theme=transparent&stroke=8C6A4C&ring=B8895A&fire=B8895A&currStreakLabel=6E5240&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+## ✦ mention spéciale pour le meilleur jeu du monde :
+
+> *"and the universe said you are not alone"*
+
+
+<div align="center">
+
+𓂃🪶
+
+*Je construis des projets, j'écris des idées, et j'apprends en chemin*
+
+</div>
