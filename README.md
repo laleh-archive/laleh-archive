@@ -1,6 +1,7 @@
 <div align="center">
   
-<img width="1195" height="122" alt="f0efb3c8c187fb5fae4a24e50a7954dc" src="https://github.com/user-attachments/assets/38582aea-452d-4ae9-b3a2-4bd41c9cf9de" />
+<img width="686" height="93" alt="ezuihgfzeuiosfhuzierhgfzuiserfgh" src="https://github.com/user-attachments/assets/4b0b092b-2218-4b9b-9c33-22d702f1c0a4" />
+
 
 # 𝑳𝒂𝒍𝒆𝒉
 
