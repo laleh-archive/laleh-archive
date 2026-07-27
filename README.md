@@ -1,10 +1,10 @@
 <div align="center">
   
-<img width="736" height="245" alt="orange sunset forest header" src="https://github.com/user-attachments/assets/408ef629-6376-434a-afd1-909897f6900c" />
+<img width="1195" height="122" alt="f0efb3c8c187fb5fae4a24e50a7954dc" src="https://github.com/user-attachments/assets/38582aea-452d-4ae9-b3a2-4bd41c9cf9de" />
 
 # 𝑳𝒂𝒍𝒆𝒉
 
-### .୨ৎ ݁ ˖🍁๋࣭ ⭑🍂༘⋆
+### .୨ৎ⋆˚🍂⋆.
 
 *per aspera ad astra*
 
@@ -65,11 +65,12 @@
 <div align="center">
 
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲 (ᴛᴇʀʀᴀꜰᴏʀᴍ, ᴀɴꜱɪʙʟᴇ)
-𝗖𝗼𝗻𝘁𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 (ᴅᴏᴄᴋᴇʀ, ᴋᴜʙᴇʀɴᴇᴛᴇꜱ) 
-𝗦é𝗰𝘂𝗿𝗶𝘁é 𝗿é𝘀𝗲𝗮𝘂 & 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗱𝗲 𝘁𝗿𝗮𝗳𝗶𝗰 (ᴡɪʀᴇꜱʜᴀʀᴋ) 
-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗖𝗹𝗼𝘂𝗱 𝘀é𝗰𝘂𝗿𝗶𝘀é𝗲 (ᴄʟᴏᴜᴅ, ɴᴇxᴜꜱ ᴠɪʀᴛᴜᴀʟɪꜱ) 
 
-<img width="736" height="307" alt="fb0ec15b0ba9b50814c452c7c452e089" src="https://github.com/user-attachments/assets/e358d1bc-e1e3-448c-b36c-46ccaeef1f3a" />
+𝗖𝗼𝗻𝘁𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 (ᴅᴏᴄᴋᴇʀ, ᴋᴜʙᴇʀɴᴇᴛᴇꜱ) 
+
+𝗦é𝗰𝘂𝗿𝗶𝘁é 𝗿é𝘀𝗲𝗮𝘂 & 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗱𝗲 𝘁𝗿𝗮𝗳𝗶𝗰 (ᴡɪʀᴇꜱʜᴀʀᴋ) 
+
+𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗖𝗹𝗼𝘂𝗱 𝘀é𝗰𝘂𝗿𝗶𝘀é𝗲 (ᴄʟᴏᴜᴅ, ɴᴇxᴜꜱ ᴠɪʀᴛᴜᴀʟɪꜱ) 
 
 </div>
 
