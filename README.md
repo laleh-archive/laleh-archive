@@ -1,6 +1,6 @@
 ![Bannière](https://images8.alphacoders.com/138/thumb-1920-1383986.png)
 
-<h1 align="center">𝑯𝒊 ! 𝑰'𝒎 𝑨𝒍𝒊𝒙 𝑨𝒏𝒅𝒓𝒊𝒆𝒖</h1>
+<h1 align="center">𝑯𝒊 ! 𝑰'𝒎 Laleh</h1>
 
 <h3 align="center">𝗔 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗶𝗻 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗙𝗿𝗮𝗻𝗰𝗲</h3>
 
@@ -11,8 +11,6 @@
 - 🤝 I’m looking for help with **programming in general**
 
 - 💬 Ask me about **litterature**
-
-- 📫 How to reach me ? --> **alix.andrieu.off@gmail.com**
 
 - ⚡ Fun fact ; **I know everything about sea animals !**
 
