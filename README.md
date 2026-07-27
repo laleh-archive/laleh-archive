@@ -74,9 +74,9 @@
 
 <div align="center">
 
-<!-- 🍂 remplace TON-PSEUDO par ton vrai pseudo github -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=laleh-archive&show_icons=true&theme=transparent&title_color=8C6A4C&icon_color=B8895A&text_color=6E5240&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laleh-archive&theme=transparent&stroke=8C6A4C&ring=B8895A&fire=B8895A&currStreakLabel=6E5240&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=laleh-archive&theme=transparent&stroke=8C6A4C&ring=B8895A&fire=B8895A&currStreakLabel=6E5240&hide_border=true" width="48%" />
 
 </div>
 
