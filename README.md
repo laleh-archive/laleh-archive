@@ -49,20 +49,6 @@
 ```
 </div>
 
-## ⋆｡˚☕️ ce que j'aime
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🍂 | l'automne, évidemment |
-| 🕯️ | les bougies et les moments tranquilles |
-| ☕ | les boissons chaudes et longues sessions créatives |
-| 🦌 | les livres, les carnets et les histoires |
-| ⭒  | l'art et les détails qui rendent les choses uniques |
-
-</div>
-
 <br>
 
 ## ˖°🍁 stats
