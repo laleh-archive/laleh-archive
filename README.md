@@ -86,7 +86,7 @@
 
 <br>
 
-## ✦ mention spéciale pour le meilleur jeu du monde :
+## ✦ mention spéciale
 
 > *"and the universe said you are not alone"*
 
@@ -95,6 +95,6 @@
 
 𓂃🪶
 
-*Je construis des projets, j'écris des idées, et j'apprends en chemin*
+*Je construis des projets, j'écris des idées, et j'apprends en chemin !*
 
 </div>
