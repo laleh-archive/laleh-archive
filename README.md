@@ -73,7 +73,7 @@
 
 <br>
 
-## ✦ mention spéciale
+## ✦
 
 > *"and the universe said you are not alone"*
 
